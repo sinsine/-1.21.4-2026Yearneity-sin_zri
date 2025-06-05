@@ -1,0 +1,14 @@
+{
+    "display":{
+        "icon":{
+            "id":"minecraft:egg"
+        },
+        "title":{"text":"只因"},
+        "description":{"text":"我去！小黑子！"}
+    },
+    "criteria":{
+        "jntm":{
+            "trigger":"impossible"
+        }
+    }
+}
